@@ -1,9 +1,7 @@
-# Boa noite, amigos!
- Repositório teste para aprender
-opa
+Manual de instalação dos programas
 
-Ednaldo Pereira
-Chega de 
+Lista de programas:
 
-Saudade
-bruno
+*Git: vamos usa-lo como nosso software de versionamento, será o repositório local.
+
+*Github: será o nosso repositório remoto, funciona como uma rede social para hospedar códigos. 
