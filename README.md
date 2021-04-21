@@ -1,6 +1,6 @@
-#MANUAL DE USO#
+# MANUAL DE USO 
 
-##Lista de programas##
+## Lista de programas
 
 __*Git*__: vamos usa-lo como nosso software de versionamento, será o repositório local.
 
