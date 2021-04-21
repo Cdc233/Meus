@@ -14,7 +14,10 @@ __*GitHub Desktop*__: programa que facilita a integração do VS Code com o Gith
 
 __*Git*__: baixe o setup [aqui](https://github.com/git-for-windows/git/releases/download/v2.31.1.windows.1/Git-2.31.1-64-bit.exe)
  De next até aparecer a opção para mudar o editor de código, escolha VS Code com default editor
- ![gifinstalação](https://user-images.githubusercontent.com/82667387/115597727-f5b21f80-a2af-11eb-9260-ba01d42f43d6.gif)
+ 
+https://user-images.githubusercontent.com/82667387/115598313-a6202380-a2b0-11eb-9700-59cc1e174137.mp4
+
+
 
 
 __*VS Code*__: baixe o setup [aqui](https://code.visualstudio.com/download) e instale de acordo com suas preferencias
